@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #BARTHELEMY {
 	background: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
 	border-radius: 20px;
@@ -21,3 +22,18 @@
 	font-family: "acme";
 	src: url("BARTHELEMY/Acme-Regular.ttf");
 }
+=======
+ 
+#AIT_MELLOUK {
+    background-color: #87CEEB;
+}
+
+#BRANQUART {
+	background:linear-gradient(to bottom right, skyblue, hotpink);
+	border-radius: 20%;
+	text-align: center;
+	font-style: italic;
+}
+
+#URIOT {background-color : blue;}
+>>>>>>> 8bb6c9c6d7ef7507b3cf6f5f39d20ee2095e2800
