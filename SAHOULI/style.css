@@ -1,0 +1,18 @@
+body
+{
+    
+   color: rgb(211, 202, 165);
+   background-color: rgb(1, 0, 6);
+
+}
+.titre {
+    color: rgb(188, 36, 36);
+    font-style: unset;
+}
+h1 {
+    color: rgb(156, 186, 207);
+}
+h2{
+    color: rgb(208, 139, 212);
+    background-color: rgb(203, 139, 139);
+}
