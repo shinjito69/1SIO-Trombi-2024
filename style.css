@@ -1,3 +1,4 @@
+
 img{
     width: 100px;
 }
@@ -28,3 +29,37 @@ img{
     font-weight: bold;
     color: #333; 
 }
+
+  
+#AIT_MELLOUK {
+    background-color: #87CEEB;
+}
+
+#BRANQUART {
+	background:linear-gradient(to bottom right, skyblue, hotpink);
+	border-radius: 20%;
+	text-align: center;
+	font-style: italic;
+}
+
+#URIOT {background-color : blue;}
+
+body
+{
+
+   color: rgb(14, 18, 102);
+   background-color: beige(150, 151, 77);
+
+}
+.titre {
+    color: rgb(188, 36, 36);
+    font-style: unset;
+}
+h1 {
+    color: rgb(255, 0, 0);
+}
+h2{
+    color: rgb(34, 19, 104);
+    background-color: rgb(237, 166, 166);
+}
+
