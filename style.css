@@ -1,0 +1,30 @@
+img{
+    width: 100px;
+}
+#GUIGUE {
+    border: 4px solid transparent; /* Crée un espace pour le dégradé */
+    border-radius: 15px; /* Coins arrondis */
+    background: linear-gradient(to right, #2E5A74, #00f7ff); /* Dégradé de couleurs */
+    padding: 5px; /* Espace entre la bordure et l'intérieur */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ajoute une légère ombre */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Effet au survol */
+}
+
+#GUIGUE img {
+    border-radius: 10px; /* Coins arrondis pour l'image */
+    display: block; /* Supprime les espaces blancs autour de l'image */
+    margin: auto; /* Centre l'image */
+    max-width: 100%; /* Empêche l'image de dépasser du cadre */
+}
+
+#GUIGUE:hover {
+    transform: scale(1.05); /* Zoom au survol */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Ombre plus prononcée */
+}
+
+#GUIGUE p {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333; /* Couleur neutre pour le texte */
+}
