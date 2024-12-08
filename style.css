@@ -69,9 +69,38 @@ background:linear-gradient(to bottom right, red, purple);
     background-color: #87CEEB;
 }
 
-body
+
+
+#HASSANI {background-color : rgb(172, 172, 255);}
+
+
+
+#URIOT {background-color : blue;}
+#BRANQUART {
+	background:linear-gradient(to bottom right, skyblue, hotpink);
+	border-radius: 20%;
+	text-align: center;
+	font-style: italic;
+}
+
+#HASSANI {
+    background-color: aliceblue;
+}
+
+p {
+    text-align: center;
+    color: #333;
+}
+#ROMANY {
+    background: linear-gradient(to bottom right, #6a0dad, #9b59b6); 
+    border-radius: 20%;
+    text-align: center;
+    font-style: italic;
+}
+
+/*body
 {
-    
+
    color: rgb(211, 186, 220);
    background-color: rgb(46, 46, 48);
 
@@ -87,16 +116,4 @@ h2{
     color: rgb(34, 19, 104);
     background-color: rgb(237, 166, 166);
 }
-#URIOT {background-color : blue;}
-#BRANQUART {
-	background:linear-gradient(to bottom right, skyblue, hotpink);
-	border-radius: 20%;
-	text-align: center;
-	font-style: italic;
-}
-#ROMANY {
-    background: linear-gradient(to bottom right, #6a0dad, #9b59b6); 
-    border-radius: 20%;
-    text-align: center;
-    font-style: italic;
-}
+*/
