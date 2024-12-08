@@ -1,7 +1,3 @@
-#HASSANI {
-    background-color: rgb(173,216,230);
-   
-}
   
 #AIT_MELLOUK {
     background-color: #87CEEB;
@@ -22,4 +18,8 @@ body
 p {
     color: rgb(33, 33, 33);
     text-align: center;
+}
+
+#HASSANI {
+    background-color : rgb(172, 172, 255);
 }
