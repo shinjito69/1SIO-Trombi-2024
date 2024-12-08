@@ -89,3 +89,9 @@ h2{
 	text-align: center;
 	font-style: italic;
 }
+#ROMANY {
+    background: linear-gradient(to bottom right, #6a0dad, #9b59b6); 
+    border-radius: 20%;
+    text-align: center;
+    font-style: italic;
+}
