@@ -2,6 +2,22 @@
     background-color: rgb(173,216,230);
    
 }
+  
+#AIT_MELLOUK {
+    background-color: #87CEEB;
+}
+
+#BRANQUART {
+	background:linear-gradient(to bottom right, skyblue, hotpink);
+	border-radius: 20%;
+	text-align: center;
+	font-style: italic;
+}
+
+#URIOT {background-color : blue;}
+
+body
+
 
 p {
     color: rgb(33, 33, 33);
